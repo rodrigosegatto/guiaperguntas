@@ -10,12 +10,19 @@ Preencha as variaveis de ambiente.
 Execute:
 > npm install
 
-### npm install
-
 Rode o comando para **testes**:
 > npm test
 
 Ou para **produção**:
 > npm start
 
-##Tecnologias
+## :computer: Tecnologias
+- Bootstrap
+- HTML5
+- CSS
+- Mysql
+- NodeJS, **Libs:** `body-parser, dotenv, ejs, express, mysql2, sequelize`
+
+## Como ficou?
+
+
